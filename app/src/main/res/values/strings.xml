@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DAM_GienerFigueroaGGonzalez</string>
+    <string name="nombre_apellidos">Apellidos y Nombre</string>
+    <string name="Correo_Electrónico">Correo Electrónico</string>
+    <string name="Clave_int">Clave</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="IngenieríaSistemas">Ingeniería de Sistemas</string>
+    <string name="IngenieríaAmbiental">Ingeniería Ambiental</string>
+    <string name="IngenieríaMecánica">Ingeniería Mecánica</string>
+    <string name="Administración">Administración</string>
+    <string name="Radio">Radio</string>
+    <string name="Internet">Internet</string>
+    <string name="Amigo">Amigo</string>
+    <string name="Publicidad">Publicidad</string>
 </resources>
